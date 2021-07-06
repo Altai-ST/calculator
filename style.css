@@ -1,0 +1,35 @@
+body{
+    background-color: lightgreen;
+}
+
+.container{
+    width: 720px;
+    background-color: aqua;
+    margin: auto auto 50px auto;
+}
+
+input{
+    background-color: aqua;
+}
+
+span{
+    display: inline-block;
+    width: 20px;
+    padding-right: 100px;
+    text-align: center;
+    border: 1px solid black;
+    background-color: aqua;   
+}
+
+h1{
+    text-align: center;
+    color: slateblue;
+}
+
+button{
+    color: white ;
+    background: linear-gradient(to bottom, #30a3fc 0%,#0073cc 100%);
+}
+button:hover{
+   background: linear-gradient(to top, #30a3fc 0%,#0073cc 100%)
+}
